@@ -1,6 +1,7 @@
 # CIM540-640
 ## Angelica St. Rose
 
-Creative Coding
+New Yorker at heart. The Walking Dead Enthusiast. Love breaking things (mostly code).
 
-[Visit Google.com](http://www.google.com) 
+
+[](https://github.com/AngelicaStrose/CIM540-640/blob/master/chrysler_bldg_gety_marian_kilinski.jpg) 
