@@ -1,16 +1,17 @@
 var centerX = 300;
 var centerY = 300;
+var loadBackground;
 
 
 function setup() {
 
    createCanvas(400,400);
-   background(255);
-
+   background(255); 
      // put setup code here
 }
 
 function draw() {
+
 stroke(135,200,42);
 strokeWeight(10);
 fill(135,200,42);
@@ -26,7 +27,7 @@ stroke(255);
 point(150, 175);
 point(240, 175);
 strokeWeight(2);
-line(125, 250, 275, 250); 
+line(125, 250, 275, 250);
 
 
 
