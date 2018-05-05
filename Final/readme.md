@@ -1,9 +1,12 @@
+LIBRARIES USED: p5.collide.2D, p5.sound
+
 Why are you making this project? What is your motivation?
 
 * This product, in my opinion, is the perfect boredom tool. Whenever I am in a class that I'm simply not interested
 in or doesn't catch my at attention, I need a suitable distraction. This app is perfect for that, mimicking the 
 functionality of MS paint so that the user can scribble around and come up with any drawing they want without
-the burdon of bringing up an actual paint tool (which isn't even offered on Macs). 
+the burdon of bringing up an actual paint tool (which isn't even offered on Macs). Users also have the opportunity
+to play music as they draw. 
 
 What are your inputs?
 
