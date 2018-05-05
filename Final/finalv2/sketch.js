@@ -4,7 +4,7 @@ function setup() {
 
 song = loadSound('assets/song1.mp3');
 button = createButton('Click to hear some music!');
-button.position(250,0); 
+button.position(250,0);
 button.mousePressed(music);
 
 createCanvas(500,500);
